@@ -1,0 +1,11 @@
+C:\Users\Krish\source\repos\Employee\Employee\bin\Debug\netcoreapp2.0\Employee.deps.json
+C:\Users\Krish\source\repos\Employee\Employee\bin\Debug\netcoreapp2.0\Employee.runtimeconfig.json
+C:\Users\Krish\source\repos\Employee\Employee\bin\Debug\netcoreapp2.0\Employee.runtimeconfig.dev.json
+C:\Users\Krish\source\repos\Employee\Employee\bin\Debug\netcoreapp2.0\Employee.dll
+C:\Users\Krish\source\repos\Employee\Employee\bin\Debug\netcoreapp2.0\Employee.pdb
+C:\Users\Krish\source\repos\Employee\Employee\obj\Debug\netcoreapp2.0\Employee.csprojAssemblyReference.cache
+C:\Users\Krish\source\repos\Employee\Employee\obj\Debug\netcoreapp2.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Krish\source\repos\Employee\Employee\obj\Debug\netcoreapp2.0\Employee.AssemblyInfoInputs.cache
+C:\Users\Krish\source\repos\Employee\Employee\obj\Debug\netcoreapp2.0\Employee.AssemblyInfo.cs
+C:\Users\Krish\source\repos\Employee\Employee\obj\Debug\netcoreapp2.0\Employee.dll
+C:\Users\Krish\source\repos\Employee\Employee\obj\Debug\netcoreapp2.0\Employee.pdb
